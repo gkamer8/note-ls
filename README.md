@@ -1,4 +1,4 @@
-# Alias for the `ls` command that displays a note
+# Show a note when running ls
 
 If I'm SSHing into some machine I don't use a lot, or going into a new directory, I run `ls` to see what's inside. Sometimes I'll have some kind of file like DO_THIS.txt, but more often I'll have to rack my brain to figure out what I'm looking at or what I need to do in this directory.
 
