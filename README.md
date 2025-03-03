@@ -1,8 +1,10 @@
-# Alias for ls that displays a note
+# Alias for the `ls` command that displays a note
 
 If I'm SSHing into some machine I don't use a lot, or going into a new directory, I run `ls` to see what's inside. Sometimes I'll have some kind of file like DO_THIS.txt, but more often I'll have to rack my brain to figure out what I'm looking at or what I need to do in this directory.
 
 So I thought maybe I should alias `ls` so that it displays a `.note` file, should it exist, right above the files.
+
+If I need to remember something, I can write a `.note` file in the directory, and running `ls` will automatically show the contents of that file!
 
 Here is how you would install it for bash:
 
