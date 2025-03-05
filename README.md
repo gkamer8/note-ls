@@ -6,6 +6,8 @@ So I thought maybe I should alias `ls` so that it displays the contents of a `.n
 
 If I need to remember something, I can write a `.note` file in the directory. Later, running `ls` will automatically show me (or others) the note! Using an alias of `ls` rather than a different executable makes sure that I force my future self to see the note even if I forget I made the alias on that machine in the first place. I thought maybe this concept would be useful for others, so I've put instructions on how to do it here.
 
+![image](screenshot.png)
+
 Here is how you would modify your `ls` command for bash:
 
 ```
